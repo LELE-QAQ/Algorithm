@@ -2,7 +2,7 @@ package linkedlist;
 
 /**
  * Created with IntelliJ IDEA
- * Description:
+ * Description:链表
  * Created By KL
  * Date: 2019/6/4
  * Time: 10:47

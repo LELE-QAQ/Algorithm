@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Created with IntelliJ IDEA
- * Description:
+ * Description:队列
  * Created By KL
  * Date: 2019/6/3
  * Time: 14:44
