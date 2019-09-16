@@ -9,7 +9,7 @@ package sort;
  */
 public class BubbleSort {
     public static void main(String[] args) {
-        int[] array = new int[80000];
+        int[] array = new int[8];
 
         for (int i = 0; i < array.length; i++) {
             array[i] = (int) (Math.random() * 10000);
